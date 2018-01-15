@@ -5,3 +5,5 @@ def extract(bag_path, topic, out_csv):
 # doc touch 5
 
 # lint pass 6
+
+# rename var 12
