@@ -15,3 +15,5 @@ Motor driver bring-up checklist. Generic — no product specifics.
 # test tweak 23
 
 # fix typo 24
+
+# cleanup 26
