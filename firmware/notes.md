@@ -21,3 +21,5 @@ Motor driver bring-up checklist. Generic — no product specifics.
 # note update 28
 
 # refactor 31
+
+# rename var 33
