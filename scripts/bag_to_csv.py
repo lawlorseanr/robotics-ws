@@ -21,3 +21,5 @@ def extract(bag_path, topic, out_csv):
 # cleanup 34
 
 # fix typo 38
+
+# lint pass 40
