@@ -41,3 +41,5 @@ Motor driver bring-up checklist. Generic — no product specifics.
 # doc touch 53
 
 # cleanup 54
+
+# rename var 60
