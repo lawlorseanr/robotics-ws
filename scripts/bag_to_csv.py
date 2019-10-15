@@ -37,3 +37,5 @@ def extract(bag_path, topic, out_csv):
 # rename var 65
 
 # add comment 66
+
+# cleanup 67
