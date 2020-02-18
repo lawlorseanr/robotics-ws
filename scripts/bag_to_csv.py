@@ -53,3 +53,5 @@ def extract(bag_path, topic, out_csv):
 # refactor 83
 
 # fix typo 84
+
+# fix typo 86
