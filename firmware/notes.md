@@ -63,3 +63,5 @@ Motor driver bring-up checklist. Generic — no product specifics.
 # tweak params 102
 
 # fix typo 104
+
+# lint pass 109
