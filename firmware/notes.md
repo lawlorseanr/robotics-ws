@@ -69,3 +69,5 @@ Motor driver bring-up checklist. Generic — no product specifics.
 # fix typo 114
 
 # note update 115
+
+# note update 117
